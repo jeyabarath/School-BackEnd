@@ -17,3 +17,18 @@ Convert as Maven Project as below after import from Git in Eclipse
 Run the application from Eclipse
 
 ![image](https://user-images.githubusercontent.com/16117201/224606444-677a4308-ca63-4e0f-bb60-463fb8997588.png)
+
+
+# Rest APIs
+
+1. GET /students/all
+2. GET /students/all/course
+3. GET /students/all/{id}
+4. GET /students/student/{id}
+5. POST /students/add
+6. POST /students/add/student/course
+7. PUT /students/update/{id}
+8. DELETE /students/delete/{id}
+
+
+Postman export file [Student.postman_collection.zip](https://github.com/jeyabarath/School-BackEnd/files/10953787/Student.postman_collection.zip)
