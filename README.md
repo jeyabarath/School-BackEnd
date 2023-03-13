@@ -1,6 +1,6 @@
 # School-BackEnd
 
-Import the dump file in MySQL **School-BackEnd\mysql_Dump20230311.zip **
+Import the dump file in MySQL **mysql_Dump20230311.zip **
 
 Database connection details are in **application.properties**
 
